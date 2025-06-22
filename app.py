@@ -286,3 +286,4 @@ btn_import.pack(side=tk.LEFT, padx=5, pady=5)
 
 show_records()
 root.mainloop()
+
